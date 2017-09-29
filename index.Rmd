@@ -7,4 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## About
+
+![Map of ForC sites](https://github.com/forc-db/ForC/blob/master/figures/World_Map_with_Biogeographic_regions_and_sites.png?raw=true)
+
