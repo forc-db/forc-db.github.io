@@ -8,5 +8,27 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-![Map of ForC sites](https://github.com/forc-db/ForC/blob/master/figures/World_Map_with_Biogeographic_regions_and_sites.png?raw=true)
+## Database overview
+The Forest C database (ForC-db) is an open access global C database led by Dr. Kristina Anderson-Teixeira (Smithsonian). ForC is updated and maintained in [this Github repository](https://github.com/forc-db/ForC). The database contains data on ground-based measurements of ecosystem-level C stocks and annual fluxes in forests globally, along with site information, disturbance history, and information on methodology. It currently contains >17,500 records from >2,700 plots and >2,000 sites, making it the largest and most comprehensive database of its type. These data were obtained from multiple previous compilations and individual published studies, as detailed in [Anderson-Teixeira et al. (2016)](http://onlinelibrary.wiley.com/doi/10.1111/gcb.13226/abstract) and an in-prep publication.
 
+
+![**Geographical distributions of sites included in ForC-db.** Symbols are colored according to the number of records from each site. Underlying map shows coverage of evergreen, deciduous, and mixed forests (from SYNMAP; Jung et al. 2006) and biogeographic zones (Olson et al. 2001). Distribution of sites, plots, and records among biogeographic zones is shown in the inset.](https://github.com/forc-db/ForC/blob/master/figures/World_Map_with_Biogeographic_regions_and_sites.png?raw=true)
+
+## Data Use 
+ForC-db is an open access database, and we encourage use of the data for scientific research and educational purposes. All users are responsible to adhere to the data use policy: [`DATA USE POLICY.md`](https://github.com/forc-db/ForC/blob/master/DATA%20USE%20POLICY.md). 
+
+
+## Contributing to the database 
+We anticipate that ForC-db will be of great value for various initiatives seeking to understand and manage the role of tropical forests in the global C cycle, and we encourage authors to contribute data. Please see [`CONTRIBUTING.md`](https://github.com/forc-db/ForC/blob/master/CONTRIBUTING.md).
+
+
+## Database citations
+* Anderson-Teixeira, K.J. *et al.* 2016. [Carbon dynamics of mature and regrowth tropical forests derived from a pantropical database (TropForC-db)](http://dx.doi.org/10.1111/gcb.13226). Global Change Biology. 
+
+* Anderson-Teixeira, K.J. *et al.* 2016. [Data from: Carbon dynamics of mature and regrowth tropical forests derived from a pantropical database (TropForC-db)](http://dx.doi.org/10.5061/dryad.t516f). Dryad Digital Repository.
+
+
+## Funding acknowledgements
+* DOE Terrestrial Ecosystem Science grant DE-SC0008085/ DE-SC0010039 to Kristina Anderson-Teixeira, Evan DeLucia, and Benjamin Duval
+
+* Smithsonian Women's Committee grant to Kristina Anderson-Teixeira
