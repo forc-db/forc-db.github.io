@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n<br>\n\n# Publications\n<br>\n\n### Database publications\n\n* Anderson-Teixeira, K.J., Wang, M. M. H., McGarvey, J.C., and LeBauer, D.S. (2016) [Carbon dynamics of mature and regrowth tropical forests derived from a pantropical database (TropForC-db)](http://dx.doi.org/10.1111/gcb.13226). Global Change Biology. DOI: 10.1111/gcb.13226.\n\n* Anderson-Teixeira, K. J., M. M. H. Wang, J. C. McGarvey, V. Herrmann, A. J. Tepley, B. P. Bond-Lamberty, and D. S. LeBauer (2018) [ForC: a global database of forest carbon stocks and fluxes](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2229). Ecology. DOI: 10.1002/ecy.2229.\n\n<br>\n\n### Publications using ForC data\n(partial list)\n\n* Requena Suarez, D., D. M. A. Rozendaal, V. D. Sy, O. L. Phillips, E. Alvarez‐Dávila, K. Anderson‐Teixeira, A. Araujo‐Murakami, L. Arroyo, T. R. Baker, F. Bongers, R. J. W. Brienen, S. Carter, S. C. Cook‐Patton, T. R. Feldpausch, B. W. Griscom, N. Harris, B. Hérault, E. N. H. Coronado, S. M. Leavitt, S. L. Lewis, B. S. Marimon, A. M. Mendoza, J. K. N’dja, A. E. N’Guessan, L. Poorter, L. Qie, E. Rutishauser, P. Sist, B. Sonké, M. J. P. Sullivan, E. Vilanova, M. M. H. Wang, C. Martius, and M. Herold. (2019). [Estimating aboveground net biomass change for tropical and subtropical forests: refinement of IPCC default rates using forest plot data](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14767). Global Change Biology, 25(11), 3609-3624. DOI: 10.1111/nph.15906",
+    "created" : 1574159896042.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "842299766",
+    "id" : "B3C55F0D",
+    "lastKnownWriteTime" : 1574160457,
+    "last_content_update" : 1574160457879,
+    "path" : "~/Dropbox (Smithsonian)/GitHub/ForC-db/forc-db.github.io/publications.Rmd",
+    "project_path" : "publications.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
