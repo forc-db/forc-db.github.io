@@ -33,7 +33,7 @@ Previous versions of ForC have been published in the peer-reviewed literature: [
 
 ***
 
-### Funding acknowledgements
+### Funding 
 * DOE Terrestrial Ecosystem Science grant DE-SC0008085/ DE-SC0010039 to Kristina Anderson-Teixeira, Evan DeLucia, and Benjamin Duval
 
 * Smithsonian Women's Committee grant to Kristina Anderson-Teixeira
