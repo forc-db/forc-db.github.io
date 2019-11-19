@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n<br>\n\n# Data\n\n<center>\n#### [Explore data using our Shiny app](https://forc.shinyapps.io/global_data_visualization/)\n\n\n![](https://raw.githubusercontent.com/forc-db/forc-db.github.io/master/ForC_shiny_screenshot.png)\n\n</center>\n\n<br><br><br>\n\n### Data Access\nForC data may be accessed through [this Github repository](https://github.com/forc-db/ForC). \n\n\n<br>\n\n### Data Use \nForC is an open access database, and we encourage use of the data for scientific research and educational purposes. All users are responsible to adhere to the data use policy: [`DATA USE.md`](https://github.com/forc-db/ForC/blob/master/DATA%20USE.md). Interested users are encouraged to contact database PI Dr. Kristina Anderson-Teixeira to discuss collaboration.  \n\n<br>\n\n### Contributing to the database \nWe anticipate that ForC-db will be of great value for various initiatives seeking to understand and manage the role of tropical forests in the global C cycle, and we encourage authors to contribute data. Please see [`CONTRIBUTING.md`](https://github.com/forc-db/ForC/blob/master/CONTRIBUTING.md).\n\n<br>\n\n### Database citations\nAny publications using ForC data should cite the following publications: \n\n* Anderson-Teixeira, K.J. *et al.* 2016. Carbon dynamics of mature and regrowth tropical forests derived from a pantropical database (TropForC-db). Global Change Biology. DOI: [10.1111/gcb.13226](http://dx.doi.org/10.1111/gcb.13226) \n\n* Anderson-Teixeira, K. J., M. M. H. Wang, J. C. McGarvey, V. Herrmann, A. J. Tepley, B. P. Bond-Lamberty, and D. S. LeBauer. in press. ForC: a global database of forest carbon stocks and fluxes. Ecology. DOI: [10.1002/ecy.2229](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2229).\n\nIn addition, if data are obtained from [the Github repository](https://github.com/forc-db/ForC) (as opposed to a static version associated with one of the above publications), this should be referenced as well (DOI representing all versions: [10.5281/zenodo.1135088](https://doi.org/10.5281/zenodo.1187192)). Publications should cite a specific version of ForC, ideally with a DOI associated with that version. Authors may work with ForC managers to generate a release and associated DOI that matches the database version used in their publication.\n",
+    "created" : 1574136253331.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2092641253",
+    "id" : "F84D38EC",
+    "lastKnownWriteTime" : 1574137639,
+    "last_content_update" : 1574137639404,
+    "path" : "~/Dropbox (Smithsonian)/GitHub/ForC-db/forc-db.github.io/data.Rmd",
+    "project_path" : "data.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

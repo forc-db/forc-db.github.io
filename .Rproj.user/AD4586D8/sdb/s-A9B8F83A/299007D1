@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "name: \"ForC\"\noutput_dir: \".\"\nnavbar:\n  title: \"ForC\"\n  left:\n    - text: \"Data\"\n      href: data.html\n    - text: \"Publications\"\n      href: publications.html\n    - text: \"Education\"\n      href: education.html\n  right:\n    - icon: fa-envelope fa-lg\n      href: contact.html\noutput:\n  html_document:\n    theme: paper\n    css: 'styles.css'\n",
+    "contents" : "name: \"ForC\"\noutput_dir: \".\"\nnavbar:\n  title: \"ForC\"\n  left:\n    - text: \"Data\"\n      href: data.html\n    - text: \"Research\"\n      href: research.html \n    - text: \"Education\"\n      href: education.html\n    - text: \"Publications\"\n      href: publications.html\n\n  right:\n    - icon: fa-envelope fa-lg\n      href: contact.html\noutput:\n  html_document:\n    theme: paper\n    css: 'styles.css'\n",
     "created" : 1574129910897.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1408505389",
+    "hash" : "1610265310",
     "id" : "299007D1",
-    "lastKnownWriteTime" : 1574131991,
-    "last_content_update" : 1574131991211,
+    "lastKnownWriteTime" : 1574136241,
+    "last_content_update" : 1574136241676,
     "path" : "~/Dropbox (Smithsonian)/GitHub/ForC-db/forc-db.github.io/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
