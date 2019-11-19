@@ -1,0 +1,18 @@
+name: "ForC"
+output_dir: "."
+navbar:
+  title: "Emily C. Zabor"
+  left:
+    - text: "Data"
+      href: data.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
