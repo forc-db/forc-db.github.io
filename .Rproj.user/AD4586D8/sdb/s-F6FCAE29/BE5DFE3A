@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"ForC\"\noutput_dir: \".\"\nnavbar:\n  title: \"ForC\"\n  left:\n    - text: \"Data\"\n      href: data.html\n    - text: \"Publications\"\n      href: publications.html\n    - text: \"Teaching\"\n      href: teaching.html\n  right:\n    - icon: fa-envelope fa-lg\n      href: contact.html\noutput:\n  html_document:\n    theme: paper\n    css: 'styles.css'\n",
+    "created" : 1574128795876.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "29902284",
+    "id" : "BE5DFE3A",
+    "lastKnownWriteTime" : 1574128805,
+    "last_content_update" : 1574128805567,
+    "path" : "~/Dropbox (Smithsonian)/GitHub/ForC-db/forc-db.github.io/_site.ylm",
+    "project_path" : "_site.ylm",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

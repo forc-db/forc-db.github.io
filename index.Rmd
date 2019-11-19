@@ -1,6 +1,5 @@
 ---
-title: "ForC Database"
-output: html_document
+
 ---
 
 ```{r setup, include=FALSE}
