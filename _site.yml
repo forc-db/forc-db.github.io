@@ -5,16 +5,16 @@ navbar:
   left:
     - text: "Data"
       href: data.html
-    - text: "Research"
-      href: research.html 
-    - text: "Education"
-      href: education.html
+#    - text: "Research"
+#      href: research.html 
+#    - text: "Education"
+#      href: education.html
     - text: "Publications"
       href: publications.html
 
-  right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
+#  right:
+#    - icon: fa-envelope fa-lg
+#      href: contact.html
 output:
   html_document:
     theme: paper

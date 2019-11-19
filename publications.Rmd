@@ -19,6 +19,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 ### Publications using ForC data
-(partial list)
+(incomplete list)
 
 * Requena Suarez, D., D. M. A. Rozendaal, V. D. Sy, O. L. Phillips, E. Alvarez‐Dávila, K. Anderson‐Teixeira, A. Araujo‐Murakami, L. Arroyo, T. R. Baker, F. Bongers, R. J. W. Brienen, S. Carter, S. C. Cook‐Patton, T. R. Feldpausch, B. W. Griscom, N. Harris, B. Hérault, E. N. H. Coronado, S. M. Leavitt, S. L. Lewis, B. S. Marimon, A. M. Mendoza, J. K. N’dja, A. E. N’Guessan, L. Poorter, L. Qie, E. Rutishauser, P. Sist, B. Sonké, M. J. P. Sullivan, E. Vilanova, M. M. H. Wang, C. Martius, and M. Herold. (2019). [Estimating aboveground net biomass change for tropical and subtropical forests: refinement of IPCC default rates using forest plot data](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14767). Global Change Biology, 25(11), 3609-3624. DOI: 10.1111/nph.15906
