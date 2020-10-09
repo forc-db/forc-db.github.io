@@ -22,7 +22,7 @@ ForC is updated and maintained in [this Github repository](https://github.com/fo
 <br>
 
 <center>
-#### 29,713 records  |  4,971 plots  |  3,325 sites
+#### 39,762 records  |  10,608 plots  |  1,532  distinct geographic areas
 
 ![**Geographical distributions of sites included in ForC-db.** Symbols are colored according to the number of records from each site. Underlying map shows coverage of evergreen, deciduous, and mixed forests (from SYNMAP; Jung et al. 2006) and biogeographic zones (Olson et al. 2001). Distribution of sites, plots, and records among biogeographic zones is shown in the inset.](https://github.com/forc-db/ForC/blob/master/figures/World_Map_with_Biogeographic_regions_and_sites.png?raw=true)
 
